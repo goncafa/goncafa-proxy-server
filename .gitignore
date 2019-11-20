@@ -1,0 +1,11 @@
+.DS_Store
+.vscode/
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+.classpath
+.gradle
+build/
+target/
